@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "147235608473",
+    "firebase_url": "https://kotlinprojekt-ea40b-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "kotlinprojekt-ea40b",
+    "storage_bucket": "kotlinprojekt-ea40b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147235608473:android:521dc818664458ef85a508",
+        "android_client_info": {
+          "package_name": "com.example.projektmobilki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147235608473-44f5mq168nf4d7u4fc92ci4v013emdnm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhUeDjaxkwbUKYMqASShPaXM1rSTMVXPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147235608473-44f5mq168nf4d7u4fc92ci4v013emdnm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
